@@ -1,0 +1,19 @@
+C:\Sandbox\webd265\ch3demo\platforms\android\ant-build\classes.dex : \
+C:\Sandbox\webd265\ch3demo\platforms\android\ant-build\classes\com\packtpub\phonegaphotshot\ch3demo\BuildConfig.class \
+C:\Sandbox\webd265\ch3demo\platforms\android\ant-build\classes\com\packtpub\phonegaphotshot\ch3demo\CordovaApp.class \
+C:\Sandbox\webd265\ch3demo\platforms\android\ant-build\classes\com\packtpub\phonegaphotshot\ch3demo\R$attr.class \
+C:\Sandbox\webd265\ch3demo\platforms\android\ant-build\classes\com\packtpub\phonegaphotshot\ch3demo\R$drawable.class \
+C:\Sandbox\webd265\ch3demo\platforms\android\ant-build\classes\com\packtpub\phonegaphotshot\ch3demo\R$string.class \
+C:\Sandbox\webd265\ch3demo\platforms\android\ant-build\classes\com\packtpub\phonegaphotshot\ch3demo\R$xml.class \
+C:\Sandbox\webd265\ch3demo\platforms\android\ant-build\classes\com\packtpub\phonegaphotshot\ch3demo\R.class \
+C:\Sandbox\webd265\ch3demo\platforms\android\ant-build\classes\com\packtpub\phonegaphotshot\localizationdemo\BuildConfig.class \
+C:\Sandbox\webd265\ch3demo\platforms\android\ant-build\classes\com\packtpub\phonegaphotshot\localizationdemo\CordovaApp.class \
+C:\Sandbox\webd265\ch3demo\platforms\android\ant-build\classes\com\packtpub\phonegaphotshot\localizationdemo\R$attr.class \
+C:\Sandbox\webd265\ch3demo\platforms\android\ant-build\classes\com\packtpub\phonegaphotshot\localizationdemo\R$drawable.class \
+C:\Sandbox\webd265\ch3demo\platforms\android\ant-build\classes\com\packtpub\phonegaphotshot\localizationdemo\R$string.class \
+C:\Sandbox\webd265\ch3demo\platforms\android\ant-build\classes\com\packtpub\phonegaphotshot\localizationdemo\R$xml.class \
+C:\Sandbox\webd265\ch3demo\platforms\android\ant-build\classes\com\packtpub\phonegaphotshot\localizationdemo\R.class \
+C:\Sandbox\webd265\ch3demo\platforms\android\ant-build\classes\org\apache\cordova\globalization\Globalization$1.class \
+C:\Sandbox\webd265\ch3demo\platforms\android\ant-build\classes\org\apache\cordova\globalization\Globalization.class \
+C:\Sandbox\webd265\ch3demo\platforms\android\ant-build\classes\org\apache\cordova\globalization\GlobalizationError.class \
+C:\Sandbox\webd265\ch3demo\platforms\android\ant-build\dexedLibs\classes-4e05f333facf5078ce4be9c3f0238149.jar \
